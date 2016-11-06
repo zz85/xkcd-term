@@ -1,0 +1,13 @@
+{
+  "name": "xkcd-term",
+  "version": "1.0.0",
+  "description": "Renders XKCD in Braille in the Terminal",
+  "main": "index.js",
+  "author": "Joshua Koo",
+  "license": "MIT",
+  "dependencies": {
+    "drawille": "^1.1.0",
+    "pngjs": "^3.0.0",
+    "xkcd": "^1.1.1"
+  }
+}
